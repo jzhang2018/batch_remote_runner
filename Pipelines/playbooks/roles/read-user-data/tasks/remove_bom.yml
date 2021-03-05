@@ -1,0 +1,4 @@
+---
+# use non-interactive vi commands to remove the leading BOM character
+- name: remove BOM
+  shell: "vi -c ':set nobomb' -c ':wq' {{ user_data_file_path }}/{{ csv_file }}"

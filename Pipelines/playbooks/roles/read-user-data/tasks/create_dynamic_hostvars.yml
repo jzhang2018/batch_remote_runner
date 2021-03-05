@@ -1,0 +1,17 @@
+---
+
+- name: Get inventory user data
+  set_fact:
+    csv_user_data: "{{ hostvars[groups['read_user_data']|first]['user_data_list'] }}"
+
+- name: Create dynamic hostvars
+  add_host:
+    groups:  
+      - "{{ group_name }}"
+    name: "{{ item.unique_id }}"
+  args: '{{ item.hostvars }}'
+  with_items: "{{ csv_user_data | dynamic_hostvars }}"  # custom filter plug-in
+
+- name: Debug - print dynamic hosts for "{{ group_name }}"
+  debug: 
+    msg: "{{ groups[group_name] }}"

@@ -1,0 +1,18 @@
+---
+# tasks file for read-user-data
+
+- name: Remove Windows Encoding
+  include_tasks: remove_bom.yml
+
+- name: read the csv (user data file)
+  read_csv:
+    path: "{{ user_data_file_path }}/{{ csv_file }}" 
+  register: user_data
+
+- name: Set user_data_list
+  set_fact:
+    user_data_list: "{{ user_data.list }}"    
+
+- name: Debug - user_data_list
+  debug: 
+    msg: "{{ user_data_list }}"

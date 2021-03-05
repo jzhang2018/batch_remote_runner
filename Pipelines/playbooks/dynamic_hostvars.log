@@ -1,0 +1,512 @@
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2y", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2y"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "~", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "~", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "~", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "~", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ csv_user_data: [
+  {
+    "host": "192.168.187.152", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "1"
+  }, 
+  {
+    "host": "192.168.187.130", 
+    "dir": "/home/devops/code", 
+    "age": "2m", 
+    "unique_id": "2"
+  }
+]
+DEBUG:root:++++++ dynamic_hostvars: [
+  {
+    "hostvars": {
+      "host": "192.168.187.152", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "1"
+  }, 
+  {
+    "hostvars": {
+      "host": "192.168.187.130", 
+      "dir": "/home/devops/code", 
+      "age": "2m"
+    }, 
+    "unique_id": "2"
+  }
+]

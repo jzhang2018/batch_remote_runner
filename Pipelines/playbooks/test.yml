@@ -1,0 +1,36 @@
+---
+
+- name: Read user data
+  hosts: read_user_data
+  connection: local
+  gather_facts: false 
+  roles: 
+    - read-user-data
+
+- name: Create dynamic inventory from csv user data
+  hosts: remote_runner
+  connection: local
+  gather_facts: false
+  tasks:
+    - include_role: 
+        name: read-user-data
+        tasks_from: create_dynamic_hostvars
+      vars:
+        - group_name: "remote_runner"
+  run_once: True
+
+- name: Test Batch Remote
+  hosts: remote_runner, !remote_runner.default
+  gather_facts: false
+  tasks:
+  - name: Find directories on remote hosts
+    find:
+      paths: "{{ dir }}"
+      age: "{{ age }}"
+      file_type: directory
+      recurse: false
+    delegate_to: "{{ host }}"
+    register: output
+
+  - name: Debug - output
+    debug: var=output
